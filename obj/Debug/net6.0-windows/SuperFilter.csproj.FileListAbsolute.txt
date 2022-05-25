@@ -1,0 +1,17 @@
+C:\Failai\Programming\SuperFilter\bin\Debug\net6.0-windows\SuperFilter.exe
+C:\Failai\Programming\SuperFilter\bin\Debug\net6.0-windows\SuperFilter.deps.json
+C:\Failai\Programming\SuperFilter\bin\Debug\net6.0-windows\SuperFilter.runtimeconfig.json
+C:\Failai\Programming\SuperFilter\bin\Debug\net6.0-windows\SuperFilter.dll
+C:\Failai\Programming\SuperFilter\bin\Debug\net6.0-windows\SuperFilter.pdb
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.csproj.AssemblyReference.cache
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.Form1.resources
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.csproj.GenerateResource.cache
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.AssemblyInfoInputs.cache
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.AssemblyInfo.cs
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.csproj.CoreCompileInputs.cache
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.dll
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\refint\SuperFilter.dll
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.pdb
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\SuperFilter.genruntimeconfig.cache
+C:\Failai\Programming\SuperFilter\obj\Debug\net6.0-windows\ref\SuperFilter.dll
